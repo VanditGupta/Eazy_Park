@@ -9,6 +9,14 @@ The bounding box of the object in the image, given as X/Y pixel locations (Inter
 
 A bitmap “mask” that tells which pixels within the bounding box are part of the object and which aren’t. With the mask data, we can also work out the outline of the object.
 
+INITIAL STAGE: 
+
+![](Images/Initial.png)
+
+FINAL STAGE:
+
+![](Images/Final.png)
+
 
 
 This was a project made by the team (coding_capitals3):
